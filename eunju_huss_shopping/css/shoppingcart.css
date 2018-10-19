@@ -1,0 +1,73 @@
+body {
+    margin: 0 auto;
+    width: 100vw;
+    font-family: 'K2D';
+   
+   
+
+}
+
+header{
+    padding: 10px;
+}
+
+
+h5, p{
+ font-family: 'K2D';   
+  color:blue;
+    
+}
+
+ul{
+    list-style: none;
+    text-align: right;
+   
+}
+
+div{
+    justify-content: center;
+   
+
+    
+}
+
+
+label{
+    width: 100px;
+}
+
+
+.cartItem{
+    border: solid grey 1px;
+    border-radius: 10px;
+   
+    
+}
+
+
+.card {
+    font-family: sans-serif;
+    padding: 1rem;
+    box-shadow: 2px 2px 12px 0 rgba(0, 0, 80, 0.2);
+    color: rgba(0, 0, 80, 1);
+    /*width: 50%;*/
+    margin: 20px;
+    border-radius: .5rem;
+    
+}
+.loginForm{
+    text-align: center;
+  
+}
+
+.footerBottem{
+    
+    width: 100%;
+    background-color: black;
+    height: 40px;
+    position: fixed;
+}
+
+.footerParagraf{
+    color: white;
+}
