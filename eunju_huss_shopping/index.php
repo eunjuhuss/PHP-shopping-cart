@@ -1,3 +1,6 @@
+
+//comment
+
 <?php
 session_start();
 
